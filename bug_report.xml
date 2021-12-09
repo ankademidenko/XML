@@ -1,0 +1,6 @@
+<id>1</id>
+<summary>Button [Open] is not clickable on the main page</summary>
+<expected result>[Open] clickable</expected result>
+<actual result>[Open] not clickable</actual result>
+<severity>blocker</severity>
+<priority>ASAP</priority>
